@@ -15,7 +15,7 @@ import '../screens/cart_page/bloc/get_user_cart/get_user_cart_bloc.dart';
 import '../screens/my_orders/model/order_detail_model.dart';
 
 class AppConstant {
-  static String baseUrl = 'http://seller.dkstore.id/api';
+  static String baseUrl = 'http://seller.dkstore.id/api/';
   static String appName = 'Dkstore';
   static String androidMapKey = 'AIzaSyC3sgXhX96SDUfBXyr4-UYUCyQTIw8tJls';
   static String iosMapKey = 'YOUR_IOS_MAP_KEY';
