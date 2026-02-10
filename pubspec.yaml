@@ -1,8 +1,9 @@
-name: hyper_local
-description: "Hyper Local"
-publish_to: 'none'
-
-version: 1.0.0+1
+name: dkstore
+description: "Belanja Kebutuhan Harian, Tanpa Ribet!"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.16+24
 
 environment:
   sdk: '>=3.6.2 <4.0.0'
@@ -95,15 +96,15 @@ flutter:
   fonts:
     - family: LexendDeca
       fonts:
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Light.ttf
-            weight: 300
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Regular.ttf
-            weight: 400
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Medium.ttf
-            weight: 500
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-SemiBold.ttf
-            weight: 600
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Bold.ttf
-            weight: 700
-          - asset: assets/fonts/Lexend_Deca/static/LexendDeca-ExtraBold.ttf
-            weight: 800
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Lexend_Deca/static/LexendDeca-ExtraBold.ttf
+          weight: 800

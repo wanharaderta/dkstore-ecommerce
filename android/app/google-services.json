@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72928386898",
+    "project_id": "dkstore-c965f",
+    "storage_bucket": "dkstore-c965f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72928386898:android:4d1d57cee80e04a8cb648b",
+        "android_client_info": {
+          "package_name": "com.dkstore.id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgiavDvuQcLJI6LEfjmp8HWEwc9xZVHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
